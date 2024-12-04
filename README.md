@@ -37,9 +37,12 @@ ICEPOS收银系统对服务器或电脑硬件要求不高,可以使用单台电�
 https://www.icepos.cn
 
 技术交流
-QQ 群号:967490959 (ICEPOS技术交流群1) ICEPOS技术交流群1
-
-logo
+QQ 群号:967490959 (ICEPOS技术交流群1) <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=C8ebPPYjtYK-TuDvsJKYOL3oemjWJGN0&jump_from=webapi&authKey=Veosz4jm8dqw/HN3xxPGhAdvCjYOxW7jqr11z3cx3M30pD1V/BshESrDyrxBRugb"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="ICEPOS技术交流群1" title="ICEPOS技术交流群1"></a>
+<div align="center">
+    <p align="center">
+        <img src="assets/qqqrcode.png" height="auto" alt="logo"/>
+    </p>
+</div>
 
 ICEPOS开源收银系统____对接AI电子秤解决方案
 开发环境要求:
@@ -50,7 +53,7 @@ ICEPOS开源收银系统____对接AI电子秤解决方案
 (3) GatewayWorker 3.x (Workerman) (模拟AI电子秤服务端通过websocket下发数据到收银客户端)
 
 模拟对接AI秤Websocket下发数据流程图:
-输入图片说明
+![输入图片说明](assets/AIcheng.PNG)
 
 ICEPOS源码内嵌Websocket代码对接AI电子秤服务端:
 
