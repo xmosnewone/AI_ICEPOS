@@ -1,4 +1,8 @@
-logo
+<div align="center">
+    <p align="center">
+        <img src="assets/icepos.jpg" height="150" alt="logo"/>
+    </p>
+</div>
 
 软件介绍
 国内为数不多的全代码开源收银软件，支持多门店，支持各种扫码设备和打印设备、钱箱等。支持微信刷卡支付（扫码收款接口）、支付宝刷卡支付（扫码收款接口）并支持更多自定义收款接口对接
@@ -49,4 +53,6 @@ ICEPOS开源收银系统____对接AI电子秤解决方案
 输入图片说明
 
 ICEPOS源码内嵌Websocket代码对接AI电子秤服务端:
-输入图片说明
+
+![输入图片说明](assets/sfwebsocker.png)
+
